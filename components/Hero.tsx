@@ -123,7 +123,7 @@ export default function Hero() {
               duration: 0.8,
               ease: [0.22, 1, 0.36, 1] as [number, number, number, number],
             }}
-            className="text-5xl md:text-6xl lg:text-8xl tracking-tight leading-tight whitespace-nowrap text-[#363738]"
+            className="text-[38px] md:text-6xl lg:text-8xl tracking-tight leading-tight whitespace-nowrap text-[#363738]"
             style={{
               fontFamily: "var(--font-roboto-slab)",
               fontWeight: 700,
